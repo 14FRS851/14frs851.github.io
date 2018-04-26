@@ -6,4 +6,4 @@ See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information
 :hp-alt-title: My English Title
 
 Hello everyone !
-How to use ASCCI doc
+How to use ASCII doc
